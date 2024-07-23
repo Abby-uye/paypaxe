@@ -1,1 +1,1 @@
-Paypaxe is a simple for managing your finance 
+Paypaxe is a simple app for managing your finance 
